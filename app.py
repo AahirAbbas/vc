@@ -399,4 +399,4 @@ if __name__ == "__main__":
                  title="Seed Voice Conversion",
                  examples=examples,
                  cache_examples=False,
-                 ).launch()
+                 ).launch(share=True)
